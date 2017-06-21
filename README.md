@@ -6,12 +6,13 @@
 
 A so very simple personal site.
 
-This was forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project. I made a few changes for the 
-sake of this class.
+This was originally forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project for class, but my version was forked from [Kate Bron's site] (https://github.com/katebron/demo_website) to complete the class project.
 
 To see the original demo, go to [jlord.github.io/hello](http://jlord.github.io/hello).
 
-My repository is here: [katebron.github.io/demo_website](https://katebron.github.io/demo_website/).
+Kate's repository is here: [katebron.github.io/demo_website](https://katebron.github.io/demo_website/).
+
+Mine will be here: [jessica-gr.github.io/demo_website] (https://jessica-gr.github.io/demo_website/)
 
 
 
